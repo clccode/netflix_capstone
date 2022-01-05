@@ -1,1 +1,1 @@
-# netflix_capstone
+Netflix Capstone Project
